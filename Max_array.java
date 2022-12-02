@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Max_array {
-    //function to get the mam element in the array
+    //function to get the max element in the array
     static int max_in_array(int a[])
     {
         //an variable to store the max element
