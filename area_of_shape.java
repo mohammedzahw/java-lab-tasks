@@ -19,7 +19,7 @@ public class area_of_shape {
             System.out.println("the area of circle ="+(3.14*(d*d)));
         }
         //function to get the permiter of the circle
-        static void circle_Perimeter(float d)
+        static void circle_circumference(float d)
         {
             System.out.println("the circumference of circle="+(2*3.14*d));
         }
@@ -36,7 +36,7 @@ public class area_of_shape {
         area_Perimeter.triangle_area(base,height);
         area_Perimeter.triangle_Perimeter(base,l2,l3);
         area_Perimeter.circle_area(diameter);
-        area_Perimeter.circle_Perimeter(diameter);
+        area_Perimeter.circle_circumference(diameter);
 
     }
 }
