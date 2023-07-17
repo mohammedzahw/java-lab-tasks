@@ -14,7 +14,7 @@ public class area_of_shape {
 
         // function to get the area of circle
         static void circle_area(float d) {
-            // go to hell
+
             System.out.println("the area of circle =" + (3.14 * (d * d)));
         }
 
